@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'guard'
+gem 'guard-shell'
+gem 'pry-byebug'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'cliqr'

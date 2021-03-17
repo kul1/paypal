@@ -1,3 +1,4 @@
+require 'pry'
 require 'credit_card_valid'
 require 'main_process'
 
